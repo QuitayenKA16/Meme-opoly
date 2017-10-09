@@ -34,7 +34,7 @@
  * plays a customized version of Monopoly (one with memes).
  */
 
-package minesweeper;
+package memeopoly;
 
 import java.io.InputStream;
 
